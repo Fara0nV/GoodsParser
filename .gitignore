@@ -1,0 +1,19 @@
+# Intellij
+.idea/*
+*.iml
+*.iws
+
+# Build Artifacts
+.gradle/
+build/
+target/
+out/
+bin/
+dependency-reduced-pom.xml
+
+# frontend
+node_modules/
+package-lock.json
+yarn.lock
+
+#
